@@ -1,2 +1,3 @@
 # inicial
-Repositório de teste
+
+Este arquivo é somente para teste de aprendizado
